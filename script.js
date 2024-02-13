@@ -16,7 +16,7 @@ const questions = [
       { text: "Africa", correct: false},
       { text: "Australia", correct: true},
     ]
-  }
+  },
   {
     question: "What is the largest desert in the world?"
     answers: [
